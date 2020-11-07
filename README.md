@@ -1,5 +1,5 @@
 # d_2008 teamname JAPAOHACK 【REASOBI】
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/0VTyzFk-qgc/0.jpg)](https://www.youtube.com/watch?v=G5rULR53uMk)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/0VTyzFk-qgc/0.jpg)](https://youtu.be/0VTyzFk-qgc)
 
 
 ## 製品概要
